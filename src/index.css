@@ -1,0 +1,37 @@
+
+body {
+  font-family: sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+input, button {
+  font-size: 1rem;
+  padding: 5px;
+}
+.bg-green-100 {
+  background-color: #d1fae5;
+}
+.bg-red-100 {
+  background-color: #fee2e2;
+}
+.admin-liste {
+  max-width: 300px;
+  margin-left: 40px;
+}
+.admin-liste ul {
+  list-style: none;
+  padding: 0;
+}
+.admin-liste li {
+  padding: 4px 0;
+}
